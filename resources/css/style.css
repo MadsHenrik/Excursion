@@ -31,3 +31,12 @@ h4 {
 footer h4 {
     float: right;
 }
+
+video {
+    display: block;
+    margin: 0.5rem auto;
+}
+
+img {
+    margin: 0.5rem auto;
+}
